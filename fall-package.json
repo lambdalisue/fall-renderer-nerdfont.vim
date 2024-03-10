@@ -1,0 +1,8 @@
+{
+  "$schema": "https://vim-fall.github.io/jsonschema/v1/package.schema.json",
+  "renderer": {
+    "nerdfont": {
+      "url": "./renderer/nerdfont.ts"
+    }
+  }
+}
